@@ -1,97 +1,33 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Juan Moreno</a> 👋</h1>
+<h1>Hello! I'm Juan Moreno <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 <img src="https://i.imgur.com/dacYcew.png">
 
 
-**About me**
+### About Me
+- I am a MERN and PERN full stack developer.
+- I am a self-taught and highly creative individual who seeks to learn and improve every day.
+- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
+### Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  <br/>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<br>
-
-- Self-taught and passionate Front-end Developer
-- Currently learning JavaScript on my own
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   
-<br>
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
+### Contact Me
+<a href="https://www.linkedin.com/in/juanjmorenoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Moreno-blue?style=flat-square&logo=linkedin"></a>  
+<a href="morenojuan0544@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-morenojuan0544@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<br>
 
-<p align="center">
-<a href="https://github.com/jjuanjx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=jjuanjx&show_icons=true)
 
-<br>
-<br>
 
------
 
-<br>
 
-### Connect With Me
-
-<!--icons and links-->
-<p align="left">
-<a href="https://www.linkedin.com/in/juanjmorenoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
- 
-</p>
-
-<br>
-<br>
-
------
-
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjuanjx&label=Profile%20views&color=0e75b6&style=flat" alt="jjuanjx" /> </p>
 
 Credit: [Juan Moreno](https://github.com/jjuanjx)
