@@ -9,9 +9,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Self-taught and passionate Front-end Developer
+- Currently learning JavaScript on my own
 
 <br><br>
 
@@ -64,6 +63,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<br>
+
 <p align="center">
 <a href="https://github.com/jjuanjx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -73,26 +74,24 @@
 
 <br>
 <br>
+
+-----
+
+<br>
+
+### Connect With Me
+
+<!--icons and links-->
+<p align="left">
+<a href="https://www.linkedin.com/in/juanjmorenoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
+ 
+</p>
+
+<br>
 <br>
 
 -----
 
 <br>
-<br>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/juanjmorenoo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
-</p>
 
 Credit: [Juan Moreno](https://github.com/jjuanjx)
